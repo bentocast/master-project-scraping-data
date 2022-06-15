@@ -1,3 +1,8 @@
 requests
 bs4
 pypyodbc
+urllib3
+pandas
+pythainlp
+boto3
+google-cloud-vision

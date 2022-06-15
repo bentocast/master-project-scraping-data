@@ -1,0 +1,11 @@
+course_snapshot/
+course_snapshot_new/
+course_snapshot_old/
+instructor_snapshot/
+instructor_snapshot_new/
+src/__pycache__/
+src/course/__pycache__/
+src/course_category/__pycache__/
+src/course_package/__pycache__/
+src/db/__pycache__/
+src/instructors/__pycache__/
